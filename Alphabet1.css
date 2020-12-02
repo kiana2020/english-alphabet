@@ -1,0 +1,128 @@
+body{
+margin: 0px auto;
+padding: 0px ;}
+
+.div-introduce{
+  padding-bottom: 0px;
+  padding-top: 0px;
+  width: auto;
+  height: 300px;
+  background-color:#7579e7;
+}
+.div-start{
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin:0px 0px 0px 0px ;
+  width: auto;
+  height: 400px;
+  background-color:#9ab3f5;
+  text-align: center;
+}
+.div-learn{
+
+  margin-top: 0px;
+  margin:0px 0px 0px 0px;
+  width: auto;
+  height:2200px;
+  background-color:#a3d8f4;
+  text-align: center;
+
+}
+.div-book{
+  margin-top: 0px;
+  margin:0px 0px 0px 0px;
+  width: auto;
+  height:200px;
+  background-color:#9ab3f5;
+  text-align:left;
+}
+video {
+  margin-top: 50px;
+  width: 50%;
+  height: auto;
+}
+hr{
+  margin-top: 5%;
+  border:10px dotted;
+  border-bottom: none;
+  width: 5%;
+  color:#483D8B ;
+}
+.table{
+  margin: 5px;
+  border: none;
+}
+#td-a{
+  padding: 0px;
+}
+.tblcenter{
+  margin-top: 5%;
+  width: 50%;
+  border: 1px solid black ;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  background-color: #b9fffc;
+}
+#tr-td{
+  font-size: 20px;
+  font-style: bold;
+  padding:10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-style: groove;
+}
+th{
+  background-color: #7579e7;
+  padding:10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-style: groove;
+
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+#p-a{
+  margin-right: : 100px;
+  padding: 0px;
+  margin: 5px;
+  font-size: 30px;
+}
+.p-start{
+  font-family: 'Nerko One', cursive;
+  margin: 0px;
+  padding-top: 10px;
+}
+.p-learn{
+  font-size: 50px;
+  margin: 0px;
+  padding-top: 10px;
+  font-family: 'Noto Sans HK', sans-serif;
+}
+.p-email{
+  margin: 0px;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 24px;
+  font-family: 'Fjalla One', sans-serif;
+}
+.p-learn1{
+  font-size: 25px;
+  font-family: 'Noto Sans HK', sans-serif;
+}
+.img-al{
+  margin-top: 50px;
+  width:20%;
+  height: 70%;
+}
+.kiana{
+  margin-top: 10px;
+}
+img-a{
+  width:2%;
+}
